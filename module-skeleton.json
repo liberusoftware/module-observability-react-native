@@ -1,0 +1,25 @@
+{
+  "repository": "module-observability-react-native",
+  "capabilityKey": "liberusoftware/observability",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-observability-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/boilerplate/nextjs/observability.md",
+  "presentationPlan": "projects/boilerplate/react-native/observability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
